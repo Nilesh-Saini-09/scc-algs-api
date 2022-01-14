@@ -1,6 +1,6 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
-const router = jsonServer.router('algs2.json');
+const router = jsonServer.router('algs3.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 5000;
 
