@@ -170,6 +170,37 @@
                 "l5": ["./assets/images/3x3/coll/coll-L5.png", "Y' R' U2 R' D' R U2 R' D R2"],
                 "l6": ["./assets/images/3x3/coll/coll-L6.png", "F R' F' r U R U' r'"]
 
+            },
+            "ell": {
+                "1": ["./assets/images/3x3/ell/ell-epll1.png", "R U' R U R U R U' R' U' R2"],
+                "2": ["./assets/images/3x3/ell/ell-epll2.png", "R2 U R U R' U' R' U' R' U R'"],
+                "3": ["./assets/images/3x3/ell/ell-epll3.png", "M2 U M2 U M' U2 M2 U2 M'"],
+                "4": ["./assets/images/3x3/ell/ell-epll4.png", "M2 U M2 U2 M2 U M2"],
+                "5": ["./assets/images/3x3/ell/ell-A1.png", "Y' M2 U M U2 M' U M' U M' U2 M U M'"],
+                "6": ["./assets/images/3x3/ell/ell-A2.png", "Y r' U' R U M' U' R' U R"],
+                "7": ["./assets/images/3x3/ell/ell-A3.png", "Y M' U' M U2 M' U' M"],
+                "8": ["./assets/images/3x3/ell/ell-A4.png", "M U M' U' M' U' M' U M' U M U' M2"],
+                "9": ["./assets/images/3x3/ell/ell-A5.png", "Y' M' U M2 U M U2 M' U M'"],
+                "10": ["./assets/images/3x3/ell/ell-A6.png", "M' U M U2 M' U M"],
+                "11": ["./assets/images/3x3/ell/ell-A7.png", "Y2 r U R' U' M U R U' R'"],
+                "12": ["./assets/images/3x3/ell/ell-A8.png", "Y2 M' U' M2 U' M U2 M' U' M'"],
+                "13": ["./assets/images/3x3/ell/ell-A9.png", "Y' M U' M' U M' U M' U' M' U' M U M2"],
+                "14": ["./assets/images/3x3/ell/ell-A10.png", "Y2 F R U R' U' F2 L' U' L U F"],
+                "15": ["./assets/images/3x3/ell/ell-A11.png", "M' U M U M' U2 M U' M' U' M"],
+                "16": ["./assets/images/3x3/ell/ell-A12.png", "Y' M' U M U M' U M U M' U M"],
+                "17": ["./assets/images/3x3/ell/ell-H1.png", "M' U M' U M' U M' U2 M' U M' U M' U M'"],
+                "18": ["./assets/images/3x3/ell/ell-H2.png", "R U R' U' M' U R U' r'"],
+                "19": ["./assets/images/3x3/ell/ell-H3.png", "M2 U' M U M' U M' U' M' U' M' U M"],
+                "20": ["./assets/images/3x3/ell/ell-H4.png", "R' U' R U M U' R' U r"],
+                "21": ["./assets/images/3x3/ell/ell-H5.png", "M2 U M U' M' U' M' U M' U M' U' M"],
+                "22": ["./assets/images/3x3/ell/ell-H6.png", "M' U' M U M' U' M U' M' U2 M"],
+                "23": ["./assets/images/3x3/ell/ell-H7.png", "M' U M U' M' U M U M' U2 M"],
+                "24": ["./assets/images/3x3/ell/ell-H8.png", "M' U M2 U2 M' U M' U2 M' U' M U' M"],
+                "25": ["./assets/images/3x3/ell/ell-X1.png", "M' U M' U M' U M' U' M' U M' U M' U M'"],
+                "26": ["./assets/images/3x3/ell/ell-X2.png", "M' U' M U' M' U2 M' U' M' U' M U' M' U' M'"],
+                "27": ["./assets/images/3x3/ell/ell-X3.png", "M' U M U M' U2 M' U M' U M U M' U M'"],
+                "28": ["./assets/images/3x3/ell/ell-X4.png", "M' U M U2 M' U M2 U' M' U2 M U' M'"],
+                "29": ["./assets/images/3x3/ell/ell-X5.png", "r U R' U' M2 U R U' R' U' M'"]
             }
         },
         "2x2x2": {
