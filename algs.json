@@ -204,7 +204,24 @@
             }
         },
         "2x2x2": {
-            
+            "lbl": {},
+            "ortega": {
+                "1": ["./assets/images/2x2/ortega/oll1.svg", "R U R' U R U2 R'", "Y' R' U2 R U R' U R"],
+                "2": ["./assets/images/2x2/ortega/oll2.svg", "y2 L' U' L U' L' U2 L", "R' U' R U' R' U2 R"],
+                "3": ["./assets/images/2x2/ortega/oll3.svg", "F (R U R' U') (R U R' U') F'", "R U2 R2 U' R2 U' R2 U2 R"],
+                "4": ["./assets/images/2x2/ortega/oll4.svg", "F (R U R' U') F'", "y2 F (U R U' R') F'"],
+                "5": ["./assets/images/2x2/ortega/oll5.svg", "F R U' R' U' R U R' F'", "y F' R U R' U' R' F R"],
+                "6": ["./assets/images/2x2/ortega/oll6.svg", "(R U R' U') (R' F R F')", "R U R' F2 R U R' U' F"],
+                "7": ["./assets/images/2x2/ortega/oll7.svg", "R2 U2 R' U2 R2", "F (R U R' U') (R U R' U') (R U R' U') F'"],
+                "8": ["./assets/images/2x2/ortega/pll1.svg", "y R U R' U' R' F R2 U' R' U' R U R' F' (T-Perm)", "y R U R' F' R U R' U' R' F R2 U' R'"],
+                "9": ["./assets/images/2x2/ortega/pll2.svg", "F R U' R' U' R U R' F' R U R' U' R' F R F' (Y-Perm)", "R U' R' U' F2 U' R U R' D R2"],
+                "10": ["./assets/images/2x2/ortega/pll3.svg", "R2 F2 R2", "R2 B2 R2"],
+                "11": ["./assets/images/2x2/ortega/pll4.svg", "R2 U' B2 U2 R2 U' R2", "y2 R2 U' R2 U2 y R2 U' R2"],
+                "12": ["./assets/images/2x2/ortega/pll5.svg", "R U' R F2 R' U R'", "R' F R' F2 R U' R"]
+            },
+            "cll": {},
+            "eg1": {},
+            "eg2": {}
         }, 
         "4x4x4": {
 
