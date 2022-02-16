@@ -261,8 +261,102 @@
                 "u5": ["./assets/images/2x2/cll/u5.svg", "R U' R2 F R F' R U R' U' R U R'"],
                 "u6": ["./assets/images/2x2/cll/u6.svg", "R' U R' F R F' R U2 R' U R"]
             },
-            "eg1": {},
-            "eg2": {}
+            "eg1": {
+                "as1": ["./assets/images/2x2/eg1/as1.svg", "y' B U' R2 F2 U' F x2", "y R' F R2 U R' F' U' R U' R'"],
+                "as2": ["./assets/images/2x2/eg1/as2.svg", "y R U' R' F' U' F2 R U' R'", "R U' F2 R U2 R U' F"],
+                "as3": ["./assets/images/2x2/eg1/as3.svg", "F' L F L' U' R U R' L' U' L", "y' R U' R' U2 R' F R2 U2 R' F"],
+                "as4": ["./assets/images/2x2/eg1/as4.svg", "R U' R' F' U' R U R' U' F"],
+                "as5": ["./assets/images/2x2/eg1/as5.svg", "y' R U R' F' U' R U R' U' R U R'"],
+                "as6": ["./assets/images/2x2/eg1/as6.svg", "y2 R U' R2 F R U' R' F R F'"],
+
+                "h1": ["./assets/images/2x2/eg1/h1.svg", "U' R' F R2 U' R' F R U R' F'", "U' R' F R2 U' R2 U' F U R"],
+                "h2": ["./assets/images/2x2/eg1/h2.svg", "U' F' U R U' R2 F2 R U' F", "F R U' R2 F U' F2 U R"],
+                "h3": ["./assets/images/2x2/eg1/h3.svg", "R' U' R' F2 U F' R F'", "U' F U2 R U' R' F2 R' F2 R F'"],
+                "h4": ["./assets/images/2x2/eg1/h4.svg", "U' (R U R') F' (R U R' U') (R U R' U')"],
+
+                "l1": ["./assets/images/2x2/eg1/l1.svg", "y R U' R' U R U' R2 F' R F", "y2 R U R' F' R U2 R' U2 R U R'"],
+                "l2": ["./assets/images/2x2/eg1/l2.svg", "y' R' F R F' R' F R U R U2 R'"],
+                "l3": ["./assets/images/2x2/eg1/l3.svg", "y R' U R2 U' R2 U' F R2 U' R'"],
+                "l4": ["./assets/images/2x2/eg1/l4.svg", "y R' F R2 U R' F' R U2 R'"],
+                "l5": ["./assets/images/2x2/eg1/l5.svg", "y2 R U R' F' R U R' U' F R' F' R"],
+                "l6": ["./assets/images/2x2/eg1/l6.svg", "y2 R' U2 F R U2 R U' R2 F", "y' R' F R F' U2 R U2 R' F R U' R'"],
+
+                "pi1": ["./assets/images/2x2/eg1/pi1.svg", "y2 R2 B2 R' U R' U' R U2 R U' R2", "y2 F2 R U R' U2 R U R' U' F"],
+                "pi2": ["./assets/images/2x2/eg1/pi2.svg", "y' R' F R2 U' R2 F R", "y' R U R2 F' R2 U R'"],
+                "pi3": ["./assets/images/2x2/eg1/pi3.svg", "y' F R' F U' F2 R U R"],
+                "pi4": ["./assets/images/2x2/eg1/pi4.svg", "y' R U' R' U R U' R' F R U' R'", "U' R2 F U' F2 U' F U' R' F2 R U' R'"],
+                "pi5": ["./assets/images/2x2/eg1/pi5.svg", "y F U' R U2 R' F' R U R' F'", "R' U' R' F2 U' R U2 F2 R"],
+                "pi6": ["./assets/images/2x2/eg1/pi6.svg", "F R U' R' F R U2 R' U F'", "y2 L U L F2 U L' U2 F2 L'"],
+
+                "s1": ["./assets/images/2x2/eg1/s1.svg", "y' F' L U2 F2 R U' x'", "y2 R U R' U F R U' R2 F' R"],
+                "s2": ["./assets/images/2x2/eg1/s2.svg", "R U R' F2 U F R U R'", "y2 F R2 U' R2 F U' F2 U' R"],
+                "s3": ["./assets/images/2x2/eg1/s3.svg", "y2 F R' F' R U R' F' R2 U R'", "y' R' F R U2 R U' R2 F2 R F'"],
+                "s4": ["./assets/images/2x2/eg1/s4.svg", "F' U R U' R' U F R U R'", "y2 F U' R U2 R' F2 R' F R"],
+                "s5": ["./assets/images/2x2/eg1/s5.svg", "y R U' R' U R U' R' U F R U' R'"],
+                "s6": ["./assets/images/2x2/eg1/s6.svg", "R' F R2 U' R' U L F' L' F", "R' F R2 U' R' U R U' R' F"],
+
+                "t1": ["./assets/images/2x2/eg1/t1.svg", "y R2 U R U' R2 F R U2 R' F", "F R U' R2 F' R U R' F' R"],
+                "t2": ["./assets/images/2x2/eg1/t2.svg", "F' R' F R2 U R' U' R U R'", "y2 R U' R' F R U' R' F R U R' F'"],
+                "t3": ["./assets/images/2x2/eg1/t3.svg", "y R U' R2 F R U R U2 R'", "y' L' U L2 F' L' U' L' U2 L"],
+                "t4": ["./assets/images/2x2/eg1/t4.svg", "y' R2 B2 U' R' U' R U' R' U R'", "U' R2 B2 U' R' U' R U' R' U R'"],
+                "t5": ["./assets/images/2x2/eg1/t5.svg", "y R U R2 x U' R U R' U' R x'", "y' R' F' R2 U R' F' R U R'"],
+                "t6": ["./assets/images/2x2/eg1/t6.svg", "y2 R U' R' U2 F R U2 R' F", "y' R U R' F R U R' F U' R U' R'"],
+
+                "u1": ["./assets/images/2x2/eg1/u1.svg", "y' R U R' U R U R2 F R2 U' R'", "R U2 R U2 R U R2"],
+                "u2": ["./assets/images/2x2/eg1/u2.svg", "U F' R2 F' R2 F' U' F2 R2"],
+                "u3": ["./assets/images/2x2/eg1/u3.svg", "F' U2 R U2 R' U2 F", "R U R' U F' R U R' U' R' F2 R2 U' R'"],
+                "u4": ["./assets/images/2x2/eg1/u4.svg", "y R' F R F' R' F R2 U' R'", "y' L F' L' F L F' L2 U L"],
+                "u5": ["./assets/images/2x2/eg1/u5.svg", "y R' F R F' U R U' R' F R U' R'", "F2 R U2 R' U' F2 U2 F'"],
+                "u6": ["./assets/images/2x2/eg1/u6.svg", "y2 R' F R2 U' R' U y' R U R'"]
+            },
+            "eg2": {
+                "as1": ["./assets/images/2x2/eg2/as1.svg", "x U' R2 F R2 F' U R' U2 R' U x'"],
+                "as2": ["./assets/images/2x2/eg2/as2.svg", "R' U' R U' R' U2 R' F2 R2", "y R U2 R' U' R U' R B2 R2"],
+                "as3": ["./assets/images/2x2/eg2/as3.svg", "y2 L' U L F' R U R B2 R2"],
+                "as4": ["./assets/images/2x2/eg2/as4.svg", "y' R' U R' F R2 F R2 F'"],
+                "as5": ["./assets/images/2x2/eg2/as5.svg", "R' U' R U' R' U' R' F2 R F' R"],
+                "as6": ["./assets/images/2x2/eg2/as6.svg", "R2 F2 R U L U' R U L'", "y2 R2 F2 R F R F' R U R'"],
+
+                "h1": ["./assets/images/2x2/eg2/h1.svg", "y F2 R U2 R2 F2 R' F2", "R2 F U2 F2 R2 F' R2"],
+                "h2": ["./assets/images/2x2/eg2/h2.svg", "y R2 U2 R U2 B2 R2", "y R2 U2 R' U2 F2 R2"],
+                "h3": ["./assets/images/2x2/eg2/h3.svg", "R U' R2 U' F U' F U' R2 F R", "R' U' R U2 R2 F' R U' F R"],
+                "h4": ["./assets/images/2x2/eg2/h4.svg", "y' R U2 B2 R' U R U' F U' x'", "y R U' R' F U2 R2 F' R F' R"],
+
+                "l1": ["./assets/images/2x2/eg2/l1.svg", "y R' U' R' F' R U' R U' R' F R", "y R2 B2 R2 F R' F' R U R U' R'"],
+                "l2": ["./assets/images/2x2/eg2/l2.svg", "y2 F2 R2 F R U R' U' R' F R"],
+                "l3": ["./assets/images/2x2/eg2/l3.svg", "y2 R2 U' R U2 R' U2 R U' F2 R2", "y2 R2 F2 R U R' U2 R U' R' U R U' R2"],
+                "l4": ["./assets/images/2x2/eg2/l4.svg", "y' R' U L' U2 R' F R U' R' U' F' x2"],
+                "l5": ["./assets/images/2x2/eg2/l5.svg", "y F R' F' R U R U' R B2 R2"],
+                "l6": ["./assets/images/2x2/eg2/l6.svg", "y2 F' R U R' U' R' F R' F2 R2"],
+
+                "pi1": ["./assets/images/2x2/eg2/pi1.svg", "F U' R U2 R U' R' U R' F'", "y' F2 U' F2 R U2 R F2 U' R2"],
+                "pi2": ["./assets/images/2x2/eg2/pi2.svg", "R' U2 R2 U' R' F2 R2 F'", "R U' R2 U R2 U R2 U' R' F2 R2"],
+                "pi3": ["./assets/images/2x2/eg2/pi3.svg", "y2 R' F' U R' F R2 U2’ R' U R"],
+                "pi4": ["./assets/images/2x2/eg2/pi4.svg", "y R' F U' R U R' F2 U2 R", "y R U' F U' F' R F2 U2 R'"],
+                "pi5": ["./assets/images/2x2/eg2/pi5.svg", "y' R U2 R F2 R2 U' R U' R'", "y R' U' R' F2 R2 U R' F2 R"],
+                "pi6": ["./assets/images/2x2/eg2/pi6.svg", "y' R U R F2 R2 U' R U2 R'"],
+
+                "s1": ["./assets/images/2x2/eg2/s1.svg", "y' F U' R2 U' R' U2 R U' R2 F'", "R' F R2 F' R U2 R' U' F2 R2"],
+                "s2": ["./assets/images/2x2/eg2/s2.svg", "R U R' U R U2 R B2 R2"],
+                "s3": ["./assets/images/2x2/eg2/s3.svg", "R U' R' F2 R2 F' L' U' L"],
+                "s4": ["./assets/images/2x2/eg2/s4.svg", "y F R2 F' R2 F' R U' R"],
+                "s5": ["./assets/images/2x2/eg2/s5.svg", "y2 R' F R' F2 R U R U R' U R", "R' U R' F R2 D' R U' R'"],
+                "s6": ["./assets/images/2x2/eg2/s6.svg", "R2 B2 R' U' L' U R' U' L"],
+
+                "t1": ["./assets/images/2x2/eg2/t1.svg", "y' F R F' R U R' U' R B2 R2", "y R' F' R U R U' R' F' R2 F2"],
+                "t2": ["./assets/images/2x2/eg2/t2.svg", "y F R' U2 R' U' R U2 F'"],
+                "t3": ["./assets/images/2x2/eg2/t3.svg", "y R' U R' F U' R U R2"],
+                "t4": ["./assets/images/2x2/eg2/t4.svg", "F2 R2 F' R U R' U' F'", "F2 R2 F U' R' F R F"],
+                "t5": ["./assets/images/2x2/eg2/t5.svg", "y R' F2 R U' R' U R' F R U' R"],
+                "t6": ["./assets/images/2x2/eg2/t6.svg", "y R' U2 R' F2 R F2 R", "y z' U' R2 U' R2 U R2 U R2 z"],
+
+                "u1": ["./assets/images/2x2/eg2/u1.svg", "y' F U' R U2 R U' R' U2 R' U' F'", "y' R' U R' F U' R U' R' U2 R2"],
+                "u2": ["./assets/images/2x2/eg2/u2.svg", "y' F R U R' U' F R2 F2", "y F U R U' R' F R2 F2"],
+                "u3": ["./assets/images/2x2/eg2/u3.svg", "y2 R' U' R U R' F2 R U' R' U R"],
+                "u4": ["./assets/images/2x2/eg2/u4.svg", "R' F' U' F U2 L' U2 R U' L"],
+                "u5": ["./assets/images/2x2/eg2/u5.svg", "y2 R2 B2 R' U R' U' R' F R F'"],
+                "u6": ["./assets/images/2x2/eg2/u6.svg", "y2 R2 F2 R F' R U L F' L' F"]
+            }
         }, 
         "4x4x4": {
 
